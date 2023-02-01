@@ -35,7 +35,6 @@ const createCustomer= async (req,res)=>{
             PaymentMethod,
             DriverName,
             SiteLocation,
-            supplied,
             DateOfSupplied:Date(),
             Quantity,
             itemsBought,
