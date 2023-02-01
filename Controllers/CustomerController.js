@@ -19,7 +19,6 @@ const createCustomer= async (req,res)=>{
             PaymentMethod,
             DriverName,
             SiteLocation,
-            supplied,
             Quantity,
             itemsBought,
             TotalAmountPaid,
